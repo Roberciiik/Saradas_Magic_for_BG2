@@ -112,6 +112,10 @@ LANGUAGE ~Simplified Chinese~
 		 ~schinese~ 
          ~saradas_magic_2/lang/schinese/install.tra~
 
+LANGUAGE ~Polish (by Aristo)~
+		 ~polish~ 
+         ~saradas_magic_2/lang/polish/setup.tra~
+
 /* ====================================================== *
  *    Saradas Magic NPC Mod for BGII  (main component)    *
  * ====================================================== */

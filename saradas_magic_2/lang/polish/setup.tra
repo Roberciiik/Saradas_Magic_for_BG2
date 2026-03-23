@@ -1,0 +1,535 @@
+/* -------------------- *
+ *  Installer messages  *
+ * -------------------- */
+@0    = ~Saradas ma wyglad mnicha (oryginalnie)~ 
+@1    = ~Saradas ma wyglad maga (opcjonalnie)~
+@2    = ~Saradas Magic NPC Mod dla Baldur's Gate II~ 
+
+@10   = ~Wymagana jest instalacja ToB, BGT, BG2:EE or EET, by zainstalowac Saradas Magic.~
+
+
+/* ----------- *
+ *  Creatures  *
+ * ----------- */
+@21   = ~Saradas~ 
+@22   = ~Balrog~
+
+// Saradas soundset
+// ----------------
+@31   = ~Niewiele ci wiadomo o tym starym czarodzieju, a próbuj¹c zg³êbiæ szczegó³y, s³yszysz od niego jedynie niejasne s³owa. Mimochodem dowiadujesz siê jednak, ¿e ma ponad 80 lat i pochodzi z Sembii. Znaczn¹ czêœæ ¿ycia s³u¿y³ jako kap³an Lathandera, dopóki nie zaj¹³ siê studiowaniem magii.~
+@32   = ~Jestem na to za stary.~ 
+@33   = ~Bogowie patrz¹ na nas przychylnie. Cieszê siê, ¿e jestem w tej dru¿ynie.~
+@34   = ~W¹tpiê, ¿eby to Gorion ciê tego nauczy³... Lepiej przemyœl swoje postêpowanie.~ 
+@35   = ~Nie bêdê d³u¿ej tolerowa³ takiego zachowania. Zmieñ swoje postêpowanie, bo zaczynam mieæ ciebie doœæ.~
+@36   = ~Chyba mogê przewodziæ przez jakiœ czas, ale twoje przeznaczenie winno zale¿eæ od ciebie.~
+@37   = ~To stare cia³o domaga siê odpoczynku. Proponujê, byœmy siê zatrzymali i zaczêli rozbijaæ obóz.~ 
+@38   = ~Wola³bym spêdzaæ czas bardziej produktywnie, jeœli nie masz nic przeciwko.~
+@39   = ~Nie masz ¿adnych szans z moj¹ magi¹.~ 
+@40   = ~Spotka ciê zas³u¿ony los!~
+@41   = ~Brutalna si³a nic ci nie da.~
+@42   = ~Nie ukryjesz siê przed œwiat³em Lathandera!~
+@43   = ~Och... ja... krwawiê...~ 
+@44   = ~Litoœciwy Panie Poranka... Pozwól temu s³udze dost¹piæ twego œwiêtego blasku.~
+@45   = ~Chroñcie mnie! Bêdê rzuca³ zaklêcia uzdrawiaj¹ce!~ 
+@46   = ~Ach, spokojna atmosfera lasu. Wywo³uje u mnie dobre wspomnienia z odleg³ej przesz³oœci.~ 
+@47   = ~W gwarze miasta splataj¹ siê nitki losu niezliczonych osób.~
+@48   = ~Ka¿dy krok w takim miejscu mo¿e byæ naszym ostatnim. Trzeba byæ przygotowanym na wszystko.~ 
+@49   = ~Zaprawdê, s³oñce oddaje sprawiedliwoœæ chwale Pana Poranka.~
+@50   = ~Moje myœli odnajduj¹ spokój, gdy cisza wieczorna okrywa œwiat.~
+@51   = ~Potrzebujesz mojej rady, dziecko?~
+@52   = ~Mów g³oœniej, mój s³uch nie jest ju¿ taki jak dawniej.~
+@53   = ~Mhm? Czego ci trzeba?~
+@54   = ~Bez obaw, ca³y czas tu jestem.~
+@55   = ~Nie nadu¿ywaj mojej cierpliwoœci.~
+@56   = ~Nie mo¿esz nad¹¿yæ za tym staruszkiem?~
+@57   = ~W mgnieniu oka.~
+@58   = ~Bardzo lubisz rozkazywaæ, prawda?~
+@59   = ~Idê, idê, nie jestem jeszcze ca³kiem g³uchy.~
+@60   = ~Zrobiê to, o co prosisz.~
+@61   = ~Nie ma siê o co martwiæ, dziecko.~
+@62   = ~Zrobiê to, choæ to dalekie od moich aspiracji.~
+@63   = ~Co za niewdziêczne zadanie.~
+@64   = ~M¹droœæ pomaga zmieniæ twoje spojrzenie na ¿ycie.~
+@65   = ~Gdzie siê podzia³y twoje dobre maniery, dziecko?~
+@66   = ~Jednak nie jestem jeszcze taki niedo³ê¿ny, co?~
+@67   = ~Kompletnie nic...~
+@68   = ~Moje starania nic nie daj¹! Musimy zmieniæ taktykê.~
+@69   = ~Czy ja ci wygl¹dam na juczne zwierzê?~
+@70   = ~Ach! Moje zaklêcie by³o prawie gotowe!~
+
+
+/* -------- *
+ *  Spells  *
+ * -------- */
+@101  = ~Zwój~
+@102  = ~Tajemniczy zwój~
+@103  = ~Efektowne podpalenie~
+@104  = ~Efektowne podpalenie
+(Wywo³ywanie)
+
+Poziom: 7
+Zasiêg: 10 metrów
+Czas dzia³ania: 4 rundy
+Czas rzucania: 7
+Obszar dzia³ania: 1 istota
+Rzut obronny: 1/2
+
+Po rzuceniu tego zaklêcia w rêkach czarodzieja pojawia siê ma³a, œwiec¹ca kula, któr¹ rzuca on w wybrany cel. Uderzenie kuli w cel wywo³uje olbrzymi s³up ognia powoduj¹cy powa¿ne poparzenia. Dodatkowo broñ przeciwnika staje siê roz¿arzona i jeœli nie powiedzie mu siê rzut obronny przeciw czarom, musi upuœciæ j¹ na ziemiê, by unikn¹æ dalszych poparzeñ. Zaklêcie zadaje wstêpnie 5k10 punktów obra¿eñ od ognia i dodatkowe 3k10, jeœli przeciwnikowi nie uda siê rzut obronny. Ponadto p³onie on przez trzy rundy, otrzymuj¹c w ka¿dej rundzie 10 punktów obra¿eñ od ognia.~
+@105  = ~Wyssanie zaklêcia~
+@106  = ~Wyssanie zaklêcia
+(Zaczarowania/Zauroczenia)
+
+Poziom: 7
+Zasiêg: 7 metrów
+Czas dzia³ania: natychmiastowy
+Czas rzucania: 7
+Obszar dzia³ania: 1 istota
+Rzut obronny: neguje
+
+Zaklêcie to jest doœæ znane wœród magów. U¿yto go wiele razy w przesz³oœci z zamiarem oœmieszenia przeciwnika podczas wyrównywania rachunków pomiêdzy magami. Bezsprzecznie jest to jeden z najbardziej niszczycielskich czarów, jakie mo¿na u¿yæ przeciwko czarodziejowi. Saradas by³ jednym z najpotê¿niejszych i najbardziej znanych mistrzów magii w Faerunie i dla zabawy rzuca³ to wymyœlone przez siebie zaklêcie na niczego niepodejrzewaj¹cych adeptów, by utrudniæ im zdanie egzaminów. Przy pomocy tego czaru mag atakuje umys³ swojego przeciwnika. Jeœli przeciwnikowi nie powiedzie siê rzut obronny przeciw czarom z modyfikatorem –5, traci on dwa zapamiêtane zaklêcia, zaœ rzucaj¹cy przypomina sobie jeden z rzuconych wczeœniej czarów. Usuniêciu z pamiêci podlegaj¹ w pierwszej kolejnoœci czary najwy¿szego mo¿liwego poziomu (9.), natomiast rzucaj¹cy mo¿e sobie przypomnieæ zaklêcie co najwy¿ej 8. poziomu.
+UWAGA: Zaklêcie to dzia³a wy³¹cznie na czarowników i magów (w³¹czaj¹c dwu- i wieloklasowców). Je¿eli cel nie jest czarownikiem albo magiem, czar nie wywo³a ¿adnego efektu i zostanie zmarnowany.~
+@107  = ~Cel pozbawiony zaklêæ~
+@108  = ~Cel jest niepodatny na efekty czaru~
+@109  = ~Przywrócono zaklêcie~
+@111  = ~Porywisty wiatr~
+@112  = ~Porywisty wiatr
+(Wywo³ywanie)
+
+Poziom: 6
+Zasiêg: zasiêg wzroku rzucaj¹cego czar
+Czas dzia³ania: natychmiastowy
+Czas rzucania: 6
+Obszar dzia³ania: w promieniu 5 metrów
+Rzut obronny: 1/2
+
+Jednym gestem d³oni mag przywo³uje potê¿ny podmuch wiatru zdolny zwaliæ z nóg ca³¹ grupê wrogów. Wszystkie istoty znajduj¹ce siê w obszarze dzia³ania czaru zostaj¹ odrzucone na odleg³oœæ 20 metrów od rzucaj¹cego. Te, którym nie powiód³ siê rzut obronny przeciw zioniêciom (z modyfikatorem –2), otrzymuj¹ 1k6 obra¿eñ obuchowych na ka¿de 5 poziomów rzucaj¹cego czar (maksymalnie do 8k6 na poziomie 36), upuszczaj¹ trzyman¹ broñ i le¿¹ na ziemi przez dwie rundy na skutek uderzenia o pod³o¿e lub napotkane przeszkody. Te, którym wskutek udanego rzutu obronnego uda³o siê uchyliæ, po³o¿yæ p³asko lub odtoczyæ na bok, otrzymuj¹ po³owê obra¿eñ, nie trac¹ przytomnoœci i nie wypuszczaj¹ broni z r¹k.~
+@113  = ~Strefa przyci¹gania~
+@114  = ~Strefa przyci¹gania
+(Przemiany)
+
+Poziom: 5
+Zasiêg: zasiêg wzroku rzucaj¹cego czar
+Czas dzia³ania: 15 sekund
+Czas rzucania: 5
+Obszar dzia³ania: w promieniu 5 metrów
+Rzut obronny: neguje
+
+Zaklêcie to zwiêksza si³ê ci¹¿enia na niewielkim obszarze wybranym przez rzucaj¹cego czar. Wszystkie istoty na obszarze dzia³ania musz¹ wykonaæ udany rzut obronny przeciw czarom z modyfikatorem +2, w przeciwnym raziej zostan¹ przyt³oczone nag³ym wzrostem przyci¹gania i upuszczaj¹ na ziemiê broñ, niemo¿liw¹ do utrzymania wskutek zwiêkszenia jej ciê¿aru. Dodatkowo zostaj¹ spowolnione, a ich zrêcznoœæ ulega zmniejszeniu do po³owy normalnej wartoœci. Skutki te mog¹ zostaæ rozproszone.~
+@115  = ~Duchowa eksplozja~
+@116  = ~Duchowa eksplozja
+(Wywo³ywanie)
+
+Poziom: epicki
+Zasiêg: zasiêg wzroku rzucaj¹cego czar
+Czas dzia³ania: natychmiastowy
+Czas rzucania: 9
+Obszar dzia³ania: 1 istota
+Rzut obronny: specjalny
+
+Jest to najwy¿szej instancji zaklêcie ofensywne, wyrecytowane po raz pierwszy przez Saradasa, B³êkitnego Maga. Rzucaj¹cy czar kumuluje w swoich d³oniach olbrzymi¹ energiê, do³¹czaj¹c do niej cz¹stkê w³asnej duszy.
+Obra¿enia od magii powodowane przez czar wynosz¹ 1k10 punktów na poziom rzucaj¹cego (maksymalnie 10k10) bez mo¿liwoœci wykonania rzutu obronnego, przy czym odpornoœæ na magiê celu mo¿e zapobiec odniesieniu przez niego obra¿eñ. Drugi sk³adnik zaklêcia wywodzi siê z duszy maga i wywo³uje 20k10 punktów magicznych obra¿eñ, których jednak mo¿na unikn¹æ, wykonuj¹c udany rzut obronny przeciw magii z modyfikatorem –7. Odpornoœæ na magiê celu nie zapobiega otrzymaniu obra¿eñ duchowych.
+Wyczerpany rzucaniem zaklêcia, mag traci 3k10 punktów ¿ycia i przez godzinê czuje siê zmêczony.
+~
+@117  = ~Bezb³êdna teleportacja~
+@118  = ~Bezb³êdna teleportacja
+(Iluzje)
+
+Poziom: 3
+Zasiêg: 30 metrów
+Czas dzia³ania: natychmiastowy
+Czas rzucania: 3
+Obszar dzia³ania: rzucaj¹cy czar
+Rzut obronny: brak
+
+To zdumiewaj¹ce zaklêcie pozwala rzucaj¹cemu je magowi przenieœæ siê na odleg³oœæ do 30 metrów w miejsce znajduj¹ce siê w zasiêgu jego wzroku. Ponadto, gdy tylko rzucaj¹cy znajdzie siê we wskazanym miejscu, staje siê niewidzialny jak po rzuceniu zaklêcia Niewidzialnoœæ, uzyskuj¹c tym samym znacz¹c¹ przewagê taktyczna nad przeciwnikami. Mag pozostaje w ukryciu przez dwie rundy, o ile nie podejmie w tym czasie dzia³añ o charakterze zaczepnym.~
+@119  = ~Supremacja Tensera~
+@120  = ~Supremacja Tensera
+(Przemiany)
+
+Poziom: 9
+Zasiêg: 0
+Czas dzia³ania: 1 minuta
+Czas rzucania: 9
+Obszar dzia³ania: rzucaj¹cy czar
+Rzut obronny: brak
+
+Zaklêcie to jest postrachem ka¿dego g³upca w Krainach. Choæ bowiem wielu wojowników dokucza czarodziejom z powodu ich cherlawoœci, to mag znajduj¹cy sie pod wp³ywem tego czaru z pewnoœcia zetrze z ich twarzy uœmieszki. Jego cia³o ulega przemianie, staj¹c siê imponuj¹co silne. Mag porzuca swoj¹ dawn¹ naturê i zaczyna wierzyæ, ¿e zawsze by³ wojownikiem o wielkich umiejêtnoœciach bojowych. Gdyby tego by³o ma³o, przywo³uje magiczny miecz +5 zadaj¹cy 1k8+5 obra¿eñ, którym perfekcyjnie siê pos³uguje. Mag mo¿e utrzymaæ tê formê tylko przez minutê, nie mog¹c w tym czasie rzucaæ zaklêæ. Z chwil¹, gdy zaklêcie przestaje dzia³aæ, mag staje siê zmêczony, a rzucanie czarów jest dla niego mocno utrudnione. Efekty czaru mo¿na rozproszyæ.
+
+Premie:
+– Klasa Pancerza: +5
+– TraK0 ustawione bazowo na -3
+– Si³a: 25
+– Podwojone: liczba punktów ¿ycia i prêdkoœæ poruszania siê~
+@121  = ~Zaklêty miecz Tensera +5~
+@123  = ~Odra¿aj¹ca przemiana~
+@124  = ~Odra¿aj¹ca przemiana
+(Nekromancja)
+
+Poziom: 7
+Zasiêg: 5 metrów
+Czas dzia³ania: sta³y
+Czas rzucania: 7
+Obszar dzia³ania: 1 istota
+Rzut obronny: neguje
+
+Istota dotkniêta przez tê okropn¹ kl¹twê musi wykonaæ udany rzut obronny przeciw polimorfii (z modyfikatorem –2), inaczej ulegnie strasznej, przyprawiaj¹cej o md³oœci transformacji. Koñczyny ofiary zaczynaj¹ szybko gniæ, trac¹c wiêkszoœæ swojej si³y. Staje siê ona tak odpychaj¹co brzydka, ¿e budzi odrazê w ka¿dym, kto znajduje siê w jej pobli¿u. Os³abieniu ulegaj¹ równie¿ jej zdolnoœci ruchowe, przez co o po³owê spada jej szybkoœæ poruszania siê. Zanika nawet przytomnoœæ umys³u, przez co ofiara czaru staje siê niezdolna do myœlenia i podejmowania nawet najprostszych dzia³añ.
+
+Inteligencja, Si³a i Charyzma celu cierpi¹ wskutek tego zaklêcia szczególnie dotkliwie. Jedyne czynnoœci, jakich mo¿e dokonywaæ ofiara, to u¿ywanie mikstur oraz innych przedmiotów znajduj¹cych siê w jej posiadaniu. Efekty czaru s¹ permanentne, dopóki na ofiarê nie zostanie rzucone Zdjêcie kl¹twy.
+UWAGA: Czar dzia³a tylko na istoty cz³ekopodobne, nie wywiera natomiast ¿adnego efektu na zwierzêta, nieumar³ych czy wielkie humanoidy.~
+@125  = ~Nieprzenikalna obrona~
+@126  = ~Nieprzenikalna obrona
+(Odrzucanie)
+
+Poziom: epicki
+Zasiêg: 12 metrów
+Czas dzia³ania: 1 tura
+Czas rzucania: 9
+Obszar dzia³ania: w promieni 5 metrów
+Rzut obronny: brak
+
+Mag, który specjalizuje siê w szkole Odrzucania i osi¹gn¹³ najwy¿sze mistrzostwo w swojej dziedzinie, zyskuje dostêp do tej magicznej zapory o niezrównanej mocy.
+Odpornoœæ na obra¿enia od ¿ywio³ów wszystkich cz³onków dru¿yny znajduj¹cych siê w obszarze dzia³ania czaru zostaje podniesiona do 75%. Ich odpornoœæ na wszystkie obra¿enia fizyczne wzrasta do 33%, ponadto otrzymuj¹ premie +2 do rzutów obronnych i +3 do Klasy Pancerza. Zaklêcie to chroni równie¿ przed czarami do 7. poziomu w³¹cznie, a tak¿e przed takimi efektami jak wyssanie poziomów, natychmiastowa œmieræ, dezintegracja i spetryfikowanie.
+Mistrz odrzucania mo¿e rzuciæ ten czar tylko raz w ci¹gu dnia, a wysoka skutecznoœæ zaklêcia sprawia, ¿e jego efekty trwaj¹ te¿ stosunkowo nied³ugo. Dopóki efekty zaklêcia siê utrzymuj¹, mag nie jest te¿ w stanie rzucaæ innych czarów, poniewa¿ musi byæ skupiony na podtrzymaniu bariery. Zaklêcie nie mo¿e zostaæ rozproszone przy pomocy Rozproszenia magii.~
+@127  = ~Niemoc charakteru~
+@128  = ~Niemoc charakteru
+(Przemiany)
+
+Poziom: epicki
+Zasiêg: 12 metrów
+Czas dzia³ania: 15 rund
+Czas rzucania: 9
+Obszar dzia³ania: w promieniu 5 metrów
+Rzut obronny: neguje
+
+Mag, który specjalizuje siê w szkole Przemian i osi¹gn¹³ najwy¿sze mistrzostwo w swojej dziedzinie, zyskuje dostêp do tego zaklêcia, które pozwala mu destabilizowaæ nie tylko cia³o, ale i duszê wroga.
+Istoty poddane efektom tego czaru zaczynaj¹ siê czuæ, jak gdyby ciê¿ar ca³ego wszechœwiata spoczywa³ na ich barkach, przez co staj¹ siê mocno os³abione i zniechêcone. Wszystkie ich odpornoœci na obra¿enia: fizyczne, od ¿ywio³ów i od magii przyjmuj¹ wartoœæ –25, co sprawia, ¿e obra¿enia otrzymywane w ten sposób s¹ zwiêkszane o 25%. Zostaj¹ ponadto spowolnione, a ich odpornoœæ na magiê zostaje obni¿ona o 75%.
+Udany rzut obronny przeciw czarom (z modyfikatorem –2) pozwala uchroniæ siê przed skutkami zaklêcia.~
+@129  = ~Odpornoœæ na obra¿enia fizyczne, magiczne i od ¿ywio³ów zosta³a obni¿ona~
+@131  = ~Sprowadzenie diab³a z Baatoru~
+@132  = ~Sprowadzenie diab³a z Baatoru
+(Sprowadzanie/Przywo³ywanie)
+
+Poziom: epicki
+Zasiêg: 5 metrów
+Czas dzia³ania: 15 rund
+Czas rzucania: 9
+Obszar dzia³ania: specjalny
+Rzut obronny: brak
+
+Mag, który specjalizuje siê w szkole Przywo³ywania i osi¹gn¹³ najwy¿sze mistrzostwo w swojej dziedzinie, zyskuje dostêp do tego przera¿aj¹cego rytua³u.
+Tworzy on miêdzywymiarow¹ szczelinê pomiêdzy Pierwsz¹ Sfer¹ Materialn¹ a Dziewiêcioma Piek³ami, przywo³uj¹c ksiêcia diab³ów o olbrzymiej mocy.
+Diabe³ nie bêdzie œlepo s³ucha³ rozkazów przywo³uj¹cego, ale bêdzie chroni³ go przed ka¿dym wrogiem, który zanadto siê zbli¿y. Po oddaleniu zagro¿enia bêdzie kr¹¿y³ w pobli¿u dru¿yny, oczekuj¹c na kolejnego wroga.
+Jego œmiercionoœne ataki zadaj¹ 2k10+5 punktów obra¿eñ siecznych i dodatkowo 1k6 obra¿eñ od ognia. Szpony diab³a s¹ przy tym traktowane jak broñ o umagicznieniu +5. Ka¿dy jego atak ma te¿ 10% szans na natychmiastowe rozdarcie przeciwnika na strzêpy, jeœli nie powiedzie mu siê rzut obronny przeciw œmierci.
+W zamian za swe us³ugi diabe³ odbiera przywo³uj¹cemu go magowi po³owê aktualnie posiadanych punktów ¿ycia.~
+@133  = ~Ksi¹¿ê diab³ów~
+@135  = ~Przewidywanie przysz³oœci~
+@136  = ~Przewidywanie przysz³oœci
+(Poznanie)
+
+Poziom: epicki
+Zasiêg: specjalny
+Czas dzia³ania: 1 godzina
+Czas rzucania: 9
+Obszar dzia³ania: specjalny
+Rzut obronny: brak
+
+Mag, który specjalizuje siê w szkole Poznania i osi¹gn¹³ najwy¿sze mistrzostwo w swojej dziedzinie, zyskuje dostêp do tego wspania³ego zaklêcia.
+Dziêki g³êbokiemu skupieniu umys³u doœwiadcza on wizji, która pozwala mu ujrzeæ, co wydarzy siê w ci¹gu najbli¿szej godziny, zyskuj¹c w ten sposób ogromn¹ przewagê taktyczn¹ nad przeciwnikami.
+Mistrz poznania uzyskuje premiê +4 do rzutów obronnych, +5 do Klasy Pancerza, a tak¿e jest chroniony przed pierwszymi dziesiêcioma atakami, które w innym wypadku by go dosiêg³y. Zaklêcie oferuje magowi znacznie wiêcej. Nadzwyczajne dobrodziejstwa szko³y Poznania pozwalaj¹ magowi odtworzyæ w umyœle obraz otoczenia i ujawniæ obecnoœæ magicznych obiektów ukrytych przed wzrokiem innych osób. Zaklêcie pozwala równie¿ postrzegaæ rzeczywistoœæ w absolutnie wyrazisty sposób, jak po rzuceniu zaklêcia Prawdziwe widzenie.
+Efekty zaklêcia trwaj¹ przez godzinê i nie mog¹ zostaæ rozproszone.~
+@137  = ~W ekwipunku pojawi³y siê przedmioty~
+@139  = ~Pe³ne poœwiêcenie~
+@140  = ~Pe³ne poœwiêcenie
+(Zaczarowania/Zauroczenia)
+
+Poziom: epicki
+Zasiêg: 5 metrów
+Czas dzia³ania: 15 rund
+Czas rzucania: 9
+Obszar dzia³ania: w promieniu 5 metrów
+Rzut obronny: neguje
+
+Mag, który specjalizuje siê w szkole Zauroczeñ i osi¹gn¹³ najwy¿sze mistrzostwo w swojej dziedzinie, zyskuje dostêp do tego straszliwego czaru, który ca³kowicie zaburza normalne dzia³anie umys³u i cia³a u przeciwników.
+Doznaj¹ oni tych samych efektów, jakie wywo³uje czar Okropne zauroczenie, z t¹ ró¿nic¹, ¿e ich cia³a doœwiadczaj¹ jednoczeœnie znacznego przyp³ywu adrenaliny wyzwalaj¹cego zwierzêce reakcje. Bêd¹ siê starali chroniæ maga nawet za cenê utraty w³asnego ¿ycia, bezgranicznie ufaj¹c jego rozkazom. Przy tym staj¹ siê szybsi, silniejsi i ¿adnym sposobem nie dadz¹ siê odci¹gn¹æ od wykonania rozkazu. Kiedy czar przestaje dzia³aæ, cia³o zauroczonej istoty doznaje niezwykle silnego szoku, wskutek czego dochodzi do zatrzymania akcji serca i natychmiastowej œmierci.
+Udany rzut obronny przeciw czarom (z modyfikatorem –5) pozwala uchroniæ siê przed skutkami zaklêcia.
+
+Premie uzyskiwane przez ofiary zaklêcia:
+– Si³a: +3
+– TraK0: +5
+– Liczba ataków na rundê: +1
+– Podwajona prêdkoœæ poruszania siê
+– Niewra¿liwoœæ na Zamêt i Zauroczenie~
+@141  = ~Wiedza uczonego~
+@142  = ~Wiedza uczonego
+(bez szko³y)
+
+Poziom: epicki
+Zasiêg: 0
+Czas dzia³ania: 30 minut
+Czas rzucania: 9
+Obszar dzia³ania: specjalny
+Rzut obronny: brak
+
+Mag, który postanowi³ nie specjalizowaæ siê w konkretnej szkole magii i dog³êbnie zrozumia³ wszystkie przenikaj¹ce Faerun energie, jest te¿ w stanie skuteczniej je kszta³towaæ i kierunkowaæ.
+W czasie, gdy dzia³a to zaklêcie, mag rzuca kolejne czary z lepsz¹ o 1 prêdkoœcia, zaœ czas ich dzia³ania wyd³u¿a siê dwukrotnie. Roztacza te¿ wokó³ siebie magiczn¹ aurê wp³ywaj¹c¹ negatywnie na przeciwników. Wrogowie, którzy siê z ni¹ zetkn¹, otrzymuj¹ karê +3 do wszystkich rzutów obronnych, ich odpornoœæ na obra¿enia magiczne i od ¿ywio³ów spada o po³owê, a ich odpornoœæ na magiê o 25%. Efekty aury utrzymuj¹ siê przez 30 sekund i nie nak³adaj¹ siê na siebie. Magiczne przedmioty i mikstury u¿yte przez wrogów, podobnie jak zaklêcia ochronne, mog¹ w dalszym ci¹gu wp³ywaæ na podniesienie tych odpornoœci.~
+@143  = ~Magiczna aura~
+@145  = ~Legion cieni~
+@146  = ~Legion cieni
+(Iluzje)
+
+Poziom: epicki
+Zasiêg: 0
+Czas dzia³ania: 1 tura
+Czas rzucania: 0
+Obszar dzia³ania: w promieniu 5 metrów
+Rzut obronny: brak
+
+Mag, który specjalizuje siê w szkole Iluzji i osi¹gn¹³ najwy¿sze mistrzostwo w swojej dziedzinie, zyskuje dostêp do tego czaru iluzji najwy¿szej klasy. Mo¿e dziêki niemu stworzyæ idealne klony cz³onków swojej dru¿yny znajduj¹cych siê w promieniu 5 metrów od niego, wraz z ich ekwipunkiem.
+Gdy tylko te klony siê pojawi¹, prawdziwi cz³onkowie dru¿yny zostan¹ ukryci i teleportowani w niedalekie bezpieczne miejsce. Wrogowie nie zdaj¹ sobie sprawy, ¿e padli ofiarami sztuczki, a nie potrafi¹c odró¿niæ cz³onków dru¿yny od ich replik, atakuj¹ klony.
+Iluzje utworzone wskutek rzucenia czaru nie mog¹ zraniæ przeciwników, ale poza tym znajduj¹ siê pod ca³kowitym wp³ywem maga, który mo¿e wci¹¿ rzucaæ dowolne zaklêcia.
+Cz³onkowie dru¿yny poddani efektom tego czaru nie mog¹ rzucaæ innych zaklêæ tworz¹cych duplikaty, jak Mamid³o, Zwodniczy sobowtór czy Projekcja duplikatu.~
+@147  = ~Insygnia œmierci~
+@148  = ~Insygnia œmierci
+(Nekromancja)
+
+Poziom: epicki
+Zasiêg: 0
+Czas dzia³ania: 30 minut
+Czas rzucania: 9
+Obszar dzia³ania: rzucaj¹cy czar
+Rzut obronny: brak
+
+Mag, który specjalizuje siê w szkole Nekromancji i osi¹gn¹³ najwy¿sze mistrzostwo w swojej dziedzinie, zyskuje dostêp do tego makabrycznego rytua³u przemiany, który pozwala polimorfowaæ siê w lisza.
+Znakomitoœæ tego zaklêcia przejawia siê szczególnie w czasie trwania jego efektów. Nie przemienia ono nekromanty w lisza na sta³e, ale na czas jego trwania obdarza go dok³adnie tymi samymi korzyœciami. Mag staje siê niepodatny na efekty takie jak strach, zauroczenie, zamêt, og³upienie, zatrucie, choroby, oœlepienie, wyssanie poziomów i natychmiastowa œmieræ. Mo¿na go zraniæ jedynie broniami o umagicznieniu +3 i wy¿szym, staje siê te¿ ca³kowicie odporny na obra¿enia od zimna, zaœ jego odpornoœæ na obra¿enia od elektrycznoœci wynosi 75%. Z drugiej strony, staje siê bardziej podatny na obra¿enia od ognia, a jego nowe cia³o utrudnia mu poruszanie siê. Jego przera¿aj¹cy wygl¹d wzbudza u otaczaj¹cych go wrogów strach.
+W czasie tej przemiany nekromanta u¿ywa jako broni Dotyku lisza, który zadaje 1k10 +5 punktów obra¿eñ k³utych i dodatkowo 2k6 punktów obra¿eñ od zimna. Poza tym, jeœli cel nie wykona udanego rzutu obronnego przeciw œmierci, zostanie unieruchomiony na 10 sekund. Dotyk lisza traktowany jest jako broñ o umagicznieniu +5 i wysysa z celu 1k6 punktów ¿ycia, po trafieniu.
+
+Czar Insygnia œmierci nie mo¿e zostaæ rozproszony, a nekromanta w czasie jego trwania nie mo¿e u¿yæ innego zaklêcia polimorfuj¹cego.~
+@149  = ~Dotyk lisza~
+@151  = ~Ob³ok dzikiej magii~
+@152  = ~Ob³ok dzikiej magii
+(Dzika magia)
+
+Poziom: epicki
+Zasiêg: 6 metrów
+Czas dzia³ania: 1 tura
+Czas rzucania: 9
+Obszar dzia³ania: 1 istota
+Rzut obronny: neguje
+
+Mag, który specjalizuje siê w Dzikiej magii i osi¹gn¹³ najwy¿sze mistrzostwo w swojej dziedzinie, zyskuje dostêp do tego zaklêcia, zdolnego czasowo otoczyæ wroga gêstym ob³okiem dzikiej energii magicznej.
+Jeœli cel nie wykona udanego rzutu obronnego przeciw zioniêciom (z modyfikatorem –3), zostanie otoczony t¹ energi¹ przez 1 turê. Ka¿d¹ prób¹ rzucenia zaklêcia wywo³a on wybuch nieokie³znanej dzikiej magii, powoduj¹c fatalne dla siebie skutki. W rzeczywistoœci to dziki mag rzucaj¹cy to zaklêcie powoduje, ¿e tabela efektów dzikiej magii ofiary zostaje zmieniona na jej niekorzyœæ.
+Energii okrywaj¹cej wroga nie mo¿na rozproszyæ. Nale¿y przy tym pamiêtaæ, ¿e nawet ktoœ mistrzowsko pos³uguj¹cy siê dzik¹ magi¹ nie jest w stanie w pe³ni jej kontrolowaæ. Dlatego te¿ nie mo¿na wykluczyæ, ¿e efekt dzikiej energii mo¿e siê okazaæ pozytywny.~
+@153  = ~Cel otoczony dzik¹ energi¹ magiczn¹~
+@155  = ~Smocze dzieciê~
+@156  = ~Smocze dzieciê
+(Uczeñ smoka)
+
+Poziom: epicki
+Zasiêg: 0
+Czas dzia³ania: 1 tura
+Czas rzucania: 9
+Obszar dzia³ania: rzucaj¹cy czar
+Rzut obronny: brak
+
+Uczeñ smoka, który osi¹gn¹³ pe³n¹ samoœwiadomoœæ, mo¿e teraz rzeczywiœcie poczuæ smocz¹ krew kr¹¿¹c¹ w swoich ¿y³ach i kontrolowaæ wynikaj¹c¹ z tego moc.
+Dziêki tej zdolnoœci uczeñ smoka mo¿e wreszcie wyzwoliæ najwiêksz¹ moc, jak¹ oferuje jego krew, i na czas trwania zaklêcia przeistoczyæ siê w czerwonego smoka, uzyskuj¹c nastêpuj¹ce premie:
+– Niewra¿liwoœæ na ogieñ i bronie o umagicznieniu +4 i ni¿szym
+– Niewrazliwoœæ na uroki, og³upienie, zamêt, strach i choroby
+– Doubled hit points
+– Si³a: 23
+– Obra¿enia od pocisków: zmniejszone o 75%
+– Obra¿enia od broni obuchowych: zmniejszone o 50%
+– Obra¿enia od broni siecznych: zmniejszone o 75%
+– Smocza aura, wywo³uj¹ca strach u wrogów
+– Szpony traktowane jako broñ +5, zadaj¹ce 2k10+5 punktów obra¿eñ siecznych i odrzucaj¹ce wrogów
+
+UWAGA: W czasie trwania efektów tego zaklêcia uczeñ smoka nie mo¿e rzucaæ innych czarów polimorfuj¹cych. Zaklêcia tego nie mo¿na rzucaæ w pomieszczeniach.~
+@157  = ~Atak smoka~
+
+
+/* ------- *
+ *  Items  *
+ * ------- */
+@201  = ~Zaklêta maska króla Strohma III~
+@202  = ~Saradas zakl¹³ dla ciebie tê oto maskê króla Strohma III. Wyniki jego zabiegów s¹ zdumiewaj¹ce – przedmiot pulsuje teraz magiczn¹ energi¹, a jego w³aœciwoœci zosta³y ulepszone, nie jest wiêc ju¿ tylko ozdobnym nakryciem g³owy, ale artefaktem obdarzaj¹cym nosz¹cego ró¿nymi mocami. Mo¿na dziêki niemu ³atwiej identyfikowaæ magiczne przedmioty oraz wykrywaæ niewidzialne stworzenia.
+
+PARAMETRY:
+
+Specjalne:
+– Klasa Pancerza: +2
+– Rzuty obronne: +2
+– Wiedza: +15
+– Chroni przed trafieniami krytycznymi
+
+W³aœciwoœci ³adunków:
+– Wykrycie niewidzialnego, dwa razy dziennie
+– Prawdziwe widzenie, raz dziennie
+
+Waga: 1
+
+Nie mo¿e u¿ywaæ:
+ Bard
+ Mag
+ Z³odziej
+ Mnich
+ Kensai~
+@203  = ~Zaklêta ksiêga Kazy~
+@204  = ~Saradas pomóg³ ci wyzwoliæ pe³ny potencja³ tej ksiêgi, któr¹ mo¿e teraz przeczytaæ ka¿dy. Zawiera ona tajemnice ¿ycia i œmierci, a ktokolwiek j¹ przeczyta, z pewnoœci¹ bêdzie lepiej rozumia³ sens ¿ycia. Wolumin mo¿e zostaæ u¿yty tylko raz, po czym obróci siê w proch.
+
+PARAMETRY:
+
+Specjalne:
+– Maksymalne punkty ¿ycia: +5, na sta³e
+– Rzuty obronne przeciw œmierci: +1, na sta³e
+– Odpornoœæ na ogieñ, zimno, elektrycznoœæ i kwas: +5%, na sta³e
+– Znika po przeczytaniu
+– W celu u¿ycia nale¿y w³o¿yæ do przegródki Podrêcznego przedmiotu
+
+Waga: 25~
+@205  = ~Zaklêty symbol Amaunatora~
+@206  = ~Saradas wyry³ na obrze¿ach tego prastarego dysku magiczne runy, budz¹c w ten sposób jego uœpione œwiête moce. Pod wp³ywem dotyku przedmiot wibruje, a jego powierzchnia emituje tak olœniewaj¹cy z³oty blask, ¿e trudno nañ bezpoœrednio patrzeæ. Symbol zosta³ przerobiony na zaklêty puklerz, skuteczny w szczególnoœci przeciw nieumar³ym.
+
+PARAMETRY:
+
+Specjalne:
+– Klasa Pancerza: +2, +4 przeciw pociskom, +4 przeciw nieumar³ym
+– Rzuty obronne: +2 przeciw nieumar³ym
+– Odpornoœæ na Oœlepienie
+– Odpornoœæ na ogieñ: +10%
+– Odpornoœæ na zimno: +10%
+– Odpornoœæ na elektrycznoœæ: +10%
+– Odpornoœæ na kwas: +10%
+– M¹droœæ: +1
+
+W³aœciwoœci ³adunków:
+– Fa³szywy œwit, raz dziennie
+
+Waga: 1
+
+Nie mo¿e u¿ywaæ:
+ Mag
+ Mnich
+ Kensai~
+@207  = ~Kostur szamana +1~
+@208  = ~Jest to zaklêta wersja Kostura dobrych jagód, który nale¿a³ do szamana koboldów w kana³ach pod slumsami Athkatli. Saradas ulepszy³ jego moce przy pomocy starych rytua³ów i obecnie jest to kij o umagicznieniu +1, który pozwala dzier¿¹cemu rzuciæ dwa razy dziennie Grupowe leczenie oraz Leczenie chorób, a tak¿e raz dziennie stworzyæ dobre jagody.
+
+PARAMETRY:
+
+W³aœciwoœci ³adunków:
+– Dobre jagody, raz dziennie
+– Grupowe leczenie, dwa razy dziennie
+– Leczenie chorób, dwa razy dziennie
+
+Obra¿enia: 1k8 +1
+TraK0: +1
+Typ obra¿eñ: obuchowe
+OpóŸnienie: 4
+Rodzaj bieg³oœci: kij
+Typ broni: 2-rêczna
+
+Wymagania:
+– Si³a: 5
+
+Waga: 4
+
+Nie mo¿e u¿ywaæ:
+ Mnich~
+@209  = ~Zaklêty kamieñ stra¿niczy~
+@210  = ~Saradas przerobi³ ten kamieñ stra¿niczy smoka cienia w kamieñ ioun o wielkiej mocy. Jego zaklêcia obudzi³y duszê z dawna zamieszkuj¹c¹ kamieñ, co obdarza nosz¹cego bardzo interesuj¹cymi w³aœciwoœciami. Ciemny kamieñ a¿ wibruje od przepe³niaj¹cej go mrocznej energii i kr¹¿y wokó³ g³owy u¿ytkownika, dodaj¹c mu zrêcznoœci i czyni¹c jego ruchy cichszymi, za cenê obni¿enia jego witalnoœci. Pozwla te¿ nosz¹cemu ukryæ siê przed wrogami.
+
+PARAMETRY:
+
+Specjalne:
+– Krycie siê w cieniu: +25% 
+– Ciche chodzenie: +25%
+– Zrêcznoœæ: +2
+– Niewykrywalnoœæ
+– Kondycja: -1
+
+W³aœciwoœci ³adunków:
+– Sanktuarium, raz dziennie
+– Ulepszona niewidzialnoœæ, raz dziennie
+
+Waga: 1~
+@211  = ~Zaklêta opoñcza Waukeen~
+@212  = ~Zanim Saradas umagiczni³ dla ciebie Opoñczê Waukeen, jej otwory na klejnoty, niegdyœ wype³nione wspania³ymi kamieniami szlachetnymi, by³y puste. Opoñcza w ci¹gu wieków przechodzi³a bowiem z r¹k do r¹k, a cenne klejnoty rozkradano. Artefakt ten bywa³ noszony przez arystokratki jako naszyjnik i jak g³osz¹ legendy, na osobie go nosz¹cej spoczywa b³ogos³awieñstwo Waukeen. Szczêœcie nie opuszcza takiej osoby, a jej przedsiêwziêcia handlowe okazuj¹ siê sukcesem. Dodatkowo nosz¹cy roztacza wokó³ siebie nieodparty urok. Klejnoty dostarczone Saradasowi zdobi¹ teraz naszyjnik, co pomog³o przywróciæ jego dawny blask.
+
+PARAMETRY:
+
+Specjalne:
+– Charyzma: +3
+– Szczêœcie: +2
+– Rzuty obronne: +2
+
+W³aœciwoœci ³adunków:
+– B³ogos³awieñstwo Waukeen, raz dziennie
+Specjalne: Charyzma 25 przez godzinê
+
+– Bogactwo Waukeen, raz dziennie
+Specjalne: tworzy klejnot
+
+Waga: 1
+
+Nie mo¿e u¿ywaæ:
+ Zabójca magów~
+@213  = ~B³ogos³awieñstwo Waukeen~
+@214  = ~Bogactwo Waukeen~
+@215  = ~W ekwipunku stworzono przedmiot~
+@217  = ~Pierœcieñ Saradasa~
+@218  = ~Saradas nigdy nie rozstaje siê z tym delikatnie grawerowanym pierœcieniem. Nie wiesz, kto go wykona³, ale specjalny niebieskawy stop, z którego zrobiono pierœcieñ sugeruje, ¿e musia³ byæ to znamienity rzemieœlnik. W metalowej obr¹czce osadzono najszystszy kamieñ ksiê¿ycowy, który w czasie pe³ni ksiê¿yca pulsuje bia³ym œwiat³em. Pierœcieñ jest zaklêty, lecz tylko Saradasowi znane s¹ jego moce.~
+@219  = ~Saradas uprzejmie wyjaœnia, ¿e ten pierœcieñ otrzyma³ od Lathandera jako osobisty podarunek i w zwi¹zku z tym dla ciebie jest on bezu¿yteczny.~ [GAM_47]
+
+
+/* ----------- *
+ *  Epilogues  *
+ * ----------- */
+
+// Epilogue as a deity and Keldorn is a friend - Finale divinit  Keldorn amico (F-G-KF)
+// ------------------------------------------------------------------------------------
+@301  = ~Po epickiej bitwie, jaka rozegra³a siê w Tronie Bhaala, dzieciê Bhaala zaakceptowa³o ostatecznie esencjê swojego ojca i sta³o siê bogiem. Dzielni cz³onkowie jego dru¿yny, pozbawieni przywództwa, rozdzielili siê i ka¿de posz³o w swoj¹ stronê. Saradas, po wszystkich swoich podró¿ach po Faerunie, postanowi³ wróciæ do swojej ukochanej ojczyzny. Czu³, ¿e dni jego wêdrówki dobieg³y koñca, i chcia³ spêdziæ w swoim starym domu w Yhaunn pozosta³e lata ¿ycia.
+Utrzymywa³ kontakt ze starym przyjacielem, lordem Keldornem Firecamem, który od czasu do czasu go odwiedza³. Opowieœci o potomkach Bhaala dotar³y jednak do ka¿dego zak¹tka Krain, w tym do Sembii. Skutkiem tego ludzie z Yhaunn czêsto pukali do drzwi Saradasa, szukaj¹c u niego m¹drych rad, ale te¿ prosz¹c o epickie opowieœci.
+Cieszy³ siê spokojnym ¿yciem, a jego umys³ czêsto oddawa³ siê wspomnieniom ostatniej przygody. Po piêciu latach zmar³ w cieple swojego domu. Ceremonia pogrzebowa  by³a bardzo uroczysta, choæ sam Saradas wola³by coœ mniej podnios³ego, i przyby³o na ni¹ wiele z najwa¿niejszych osobistoœci Faerunu, jak choæby Elminster Aumar, Khelben Arunsun, a tak¿e jego przyjaciel Keldorn.
+Legenda g³osi, ¿e jakieœ niesamowite, jasne œwiat³o pojawi³o siê tamtego dnia w œwi¹tyni, i wielu ludzi wierzy, ¿e to sam Pan Poranka zabra³ Saradasa, by po wsze czasy trwa³ u jego boku.~
+
+// Epilogue as a deity and Keldorn is not a friend - Finale divinit  Keldorn non amico (F-G-KNF)
+// ---------------------------------------------------------------------------------------------
+@302  = ~Po epickiej bitwie, jaka rozegra³a siê w Tronie Bhaala, dzieciê Bhaala zaakceptowa³o ostatecznie esencjê swojego ojca i sta³o siê bogiem. Dzielni cz³onkowie jego dru¿yny, pozbawieni przywództwa, rozdzielili siê i ka¿de posz³o w swoj¹ stronê. Saradas, po wszystkich swoich podró¿ach po Faerunie, postanowi³ wróciæ do swojej ukochanej ojczyzny. Czu³, ¿e dni jego wêdrówki dobieg³y koñca, i chcia³ spêdziæ w swoim starym domu w Yhaunn pozosta³e lata ¿ycia.
+Opowieœci o potomkach Bhaala dotar³y jednak do ka¿dego zak¹tka Krain, w tym do Sembii. Skutkiem tego ludzie z Yhaunn czêsto pukali do drzwi Saradasa, szukaj¹c u niego m¹drych rad, ale te¿ prosz¹c o epickie opowieœci.
+Cieszy³ siê spokojnym ¿yciem, a jego umys³ czêsto oddawa³ siê wspomnieniom ostatniej przygody. Po piêciu latach zmar³ w cieple swojego domu. Ceremonia pogrzebowa  by³a bardzo uroczysta, choæ sam Saradas wola³by coœ mniej podnios³ego, i przyby³o na ni¹ wiele z najwa¿niejszych osobistoœci Faerunu, jak choæby Elminster Aumar i Khelben Arunsun
+Legenda g³osi, ¿e jakieœ niesamowite, jasne œwiat³o pojawi³o siê tamtego dnia w œwi¹tyni, i wielu ludzi wierzy, ¿e to sam Pan Poranka zabra³ Saradasa, by po wsze czasy trwa³ u jego boku.~
+
+// Epilogue as no deity and Keldorn is a friend - Finale non divinit  Keldorn amico (F-NG-KF)
+// ------------------------------------------------------------------------------------------
+@303  = ~Po epickiej bitwie, jaka rozegra³a siê w Tronie Bhaala, dzieciê Bhaala odrzuci³o ostatecznie esencjê swojego ojca, oczyszczaj¹c sw¹ duszê ze skazy. Po wype³nieniu tego proroctwa dzielni cz³onkowie jego dru¿yny rozdzielili siê i ka¿de posz³o w swoj¹ stronê. Saradas, po wszystkich swoich podró¿ach po Faerunie, postanowi³ wróciæ do swojej ukochanej ojczyzny. Czu³, ¿e dni jego wêdrówki dobieg³y koñca, i chcia³ spêdziæ w swoim starym domu w Yhaunn pozosta³e lata ¿ycia.
+Utrzymywa³ kontakt ze starym przyjacielem, lordem Keldornem Firecamem, który od czasu do czasu go odwiedza³. Opowieœci o potomkach Bhaala dotar³y jednak do ka¿dego zak¹tka Krain, w tym do Sembii. Skutkiem tego ludzie z Yhaunn czêsto pukali do drzwi Saradasa, szukaj¹c u niego m¹drych rad, ale te¿ prosz¹c o epickie opowieœci.
+Cieszy³ siê spokojnym ¿yciem, a jego umys³ czêsto oddawa³ siê wspomnieniom ostatniej przygody. Po piêciu latach zmar³ w cieple swojego domu. Ceremonia pogrzebowa  by³a bardzo uroczysta, choæ sam Saradas wola³by coœ mniej podnios³ego, i przyby³o na ni¹ wiele z najwa¿niejszych osobistoœci Faerunu, jak choæby Elminster Aumar, Khelben Arunsun, a tak¿e jego przyjaciel Keldorn.
+Legenda g³osi, ¿e jakieœ niesamowite, jasne œwiat³o pojawi³o siê tamtego dnia w œwi¹tyni, i wielu ludzi wierzy, ¿e to sam Pan Poranka zabra³ Saradasa, by po wsze czasy trwa³ u jego boku.~
+
+// Epilogue as a deity and Keldorn is a friend - Finale divinit  Keldorn amico (F-G-KF)
+// ------------------------------------------------------------------------------------
+@304  = ~Po epickiej bitwie, jaka rozegra³a siê w Tronie Bhaala, dzieciê Bhaala odrzuci³o ostatecznie esencjê swojego ojca, oczyszczaj¹c sw¹ duszê ze skazy. Po wype³nieniu tego proroctwa dzielni cz³onkowie jego dru¿yny rozdzielili siê i ka¿de posz³o w swoj¹ stronê. Saradas, po wszystkich swoich podró¿ach po Faerunie, postanowi³ wróciæ do swojej ukochanej ojczyzny. Czu³, ¿e dni jego wêdrówki dobieg³y koñca, i chcia³ spêdziæ w swoim starym domu w Yhaunn pozosta³e lata ¿ycia.
+Opowieœci o potomkach Bhaala dotar³y jednak do ka¿dego zak¹tka Krain, w tym do Sembii. Skutkiem tego ludzie z Yhaunn czêsto pukali do drzwi Saradasa, szukaj¹c u niego m¹drych rad, ale te¿ prosz¹c o epickie opowieœci.
+Cieszy³ siê spokojnym ¿yciem, a jego umys³ czêsto oddawa³ siê wspomnieniom ostatniej przygody. Po piêciu latach zmar³ w cieple swojego domu. Ceremonia pogrzebowa  by³a bardzo uroczysta, choæ sam Saradas wola³by coœ mniej podnios³ego, i przyby³o na ni¹ wiele z najwa¿niejszych osobistoœci Faerunu, jak choæby Elminster Aumar i Khelben Arunsun.
+Legenda g³osi, ¿e jakieœ niesamowite, jasne œwiat³o pojawi³o siê tamtego dnia w œwi¹tyni, i wielu ludzi wierzy, ¿e to sam Pan Poranka zabra³ Saradasa, by po wsze czasy trwa³ u jego boku.~
+
+// Epilogue: no deity with CHARNAME as a mage and Keldorn is not a friend - Finale non divinit  protagonista mago Keldorn non amico (F-M-KNF)
+// ------------------------------------------------------------------------------------------------------------------------------------------
+@305  = ~Po epickiej bitwie, jaka rozegra³a siê w Tronie Bhaala, dzieciê Bhaala odrzuci³o ostatecznie esencjê swojego ojca, oczyszczaj¹c sw¹ duszê ze skazy. Po wype³nieniu tego proroctwa dzielni cz³onkowie jego dru¿yny rozdzielili siê i ka¿de posz³o w swoj¹ stronê. Bez esencji Bhaala <CHARNAME> utraci³<PRO_HESHE> te¿ czêœæ swojej magicznej mocy. Saradas ponownie zaoferowa³ swoj¹ pomoc, tym razem w odzyskaniu zdolnoœci magicznych.
+<CHARNAME> i Saradas udali siê do Sembii, ukochanej ojczyzny Saradasa, gdzie po up³ywie roku <CHARNAME> odzyska³ utracone wczeœniej umiejêtnoœci, a nawet wzmocni³<PRO_HESHE> je na tyle, ¿e sta³<PRO_HESHE> siê arcymagiem o ogromnej mocy. W koñcu jednak <CHARNAME> opuœci³<PRO_HESHE> swojego starego nauczyciela, by zacz¹æ nowe ¿ycie, nie zapomina³<PRO_HESHE> jednak odwiedziæ go od czasu do czasu. Zostawszy sam, Saradas cieszy³ siê spokojnym ¿yciem w swoim starym domu, a jego umys³ czêsto oddawa³ siê wspomnieniom ostatniej przygody.
+Po piêciu latach zmar³ w cieple swojego domu. Ceremonia pogrzebowa  by³a bardzo uroczysta, choæ sam Saradas wola³by coœ mniej podnios³ego, i przyby³o na ni¹ wiele z najwa¿niejszych osobistoœci Faerunu, jak choæby Elminster Aumar i Khelben Arunsun.
+Legenda g³osi, ¿e jakieœ niesamowite, jasne œwiat³o pojawi³o siê tamtego dnia w œwi¹tyni, i wielu ludzi wierzy, ¿e to sam Pan Poranka zabra³ Saradasa, by po wsze czasy trwa³ u jego boku.~
+
+// Epilogue as a deity and Keldorn is a friend - Finale divinit  Keldorn amico (F-G-KF)
+// ------------------------------------------------------------------------------------
+@306  = ~Po epickiej bitwie, jaka rozegra³a siê w Tronie Bhaala, dzieciê Bhaala odrzuci³o ostatecznie esencjê swojego ojca, oczyszczaj¹c sw¹ duszê ze skazy. Po wype³nieniu tego proroctwa dzielni cz³onkowie jego dru¿yny rozdzielili siê i ka¿de posz³o w swoj¹ stronê. Bez esencji Bhaala <CHARNAME> utraci³<PRO_HESHE> te¿ czêœæ swojej magicznej mocy. Saradas ponownie zaoferowa³ swoj¹ pomoc, tym razem w odzyskaniu zdolnoœci magicznych.
+<CHARNAME> i Saradas udali siê do Sembii, ukochanej ojczyzny Saradasa, gdzie po up³ywie roku <CHARNAME> odzyska³ utracone wczeœniej umiejêtnoœci, a nawet wzmocni³<PRO_HESHE> je na tyle, ¿e sta³<PRO_HESHE> siê arcymagiem o ogromnej mocy. W koñcu jednak <CHARNAME> opuœci³<PRO_HESHE> swojego starego nauczyciela, by zacz¹æ nowe ¿ycie, nie zapomina³<PRO_HESHE> jednak odwiedziæ go od czasu do czasu. Zostawszy sam, Saradas cieszy³ siê spokojnym ¿yciem w swoim starym domu, a jego umys³ czêsto oddawa³ siê wspomnieniom ostatniej przygody. Utrzymywa³ kontakt ze starym przyjacielem, lordem Keldornem Firecamem, który niekiedy go odwiedza³.
+Po piêciu latach zmar³ w cieple swojego domu. Ceremonia pogrzebowa  by³a bardzo uroczysta, choæ sam Saradas wola³by coœ mniej podnios³ego, i przyby³o na ni¹ wiele z najwa¿niejszych osobistoœci Faerunu, jak choæby Elminster Aumar, Khelben Arunsun, a tak¿e jego przyjaciel Keldorn.
+Legenda g³osi, ¿e jakieœ niesamowite, jasne œwiat³o pojawi³o siê tamtego dnia w œwi¹tyni, i wielu ludzi wierzy, ¿e to sam Pan Poranka zabra³ Saradasa, by po wsze czasy trwa³ u jego boku.~
+
+/* ============================================================================================================= *
+ *  Usability flags                                                                                              *
+ * ------------------------------------------------------------------------------------------------------------- *
+ * Note for translators: you will find usability flags REGEXP expressions in other items mods (Rolles, Ruad...)  *
+ * ============================================================================================================= */
+@9001  = ~[Mm]o¿e[ %tab%]+[Uu]¿ywaæ[ %tab%]*:~
+@9002  = ~[Nn]ie[ %tab%]+[Mm]o¿e[ %tab%]+[Uu]¿ywaæ[ %tab%]*:~
